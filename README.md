@@ -4,3 +4,5 @@
 * **Program Studi:** Informatika
 * **Fakultas:** Fakultas Teknik
 * **Universitas Majalengka**
+
+## TUGAS
